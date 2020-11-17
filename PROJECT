@@ -1,0 +1,3 @@
+domain: k8s.io
+repo: github.com/Sho2010/kubebuilder-tutorial
+version: "2"
